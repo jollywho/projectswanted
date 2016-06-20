@@ -18,6 +18,7 @@ An open source project wishlist - what projects you wish existed. Maybe you'll f
 * non-shit C build system
 * non-shit alternative to Jenkins
 * init system compatible with systemd units without the rest of the systemd bullshit
+* Command line utility to program XBee modules without the proprietary X-CTU GUI crap
 
 #### Servers
 * mail server
